@@ -9,7 +9,10 @@ table {
     text-align: left;
 }
 
-
+#insta {
+    height: 20px;
+    width: 20px;
+}
 
 
  ul {
@@ -34,7 +37,7 @@ table {
     border-radius: 50%;
  }
 
- #e, #w, #address, #name, #office {
+ #e, #w, #address, #name, #office, #m {
     color: #e89d00;
  }
 
