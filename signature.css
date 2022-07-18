@@ -49,3 +49,8 @@ table {
     width: 600px;
     height: 100px;
  }
+
+ #ddd {
+    font-size: 12px;
+    font-weight: bold;
+ }
