@@ -44,3 +44,8 @@ table {
  #assets {
     color: red;
  }
+
+ #brandBanner {
+    width: 600px;
+    height: 100px;
+ }
